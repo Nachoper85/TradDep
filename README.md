@@ -1,2 +1,2 @@
 # TradDep
-Trade
+Trading DEP
